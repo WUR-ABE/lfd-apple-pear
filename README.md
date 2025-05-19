@@ -1,5 +1,5 @@
 # Evaluating performance and generalizability of Learning from Demonstration for the harvesting of apples & pears
-![Example of demonstration](assets/grasp_TO.jpg "Example of demonstration")
+![Example of demonstration](assets/grasp_TO.png "Example of demonstration")
 > **Evaluating performance and generalizability of Learning from Demonstration for the harvesting of apples & pears**\
 > Robert van de Ven, Ard Nieuwenhuizen, Eldert J. van Henten, and Gert Kootstra\
 > DOI: https://doi.org/10.1016/j.atech.2025.101006
