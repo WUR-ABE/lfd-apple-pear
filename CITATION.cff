@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: van de Ven
+    given-names: Robert
+    orcid: 'https://orcid.org/0009-0005-6483-6231'
+  - family-names: Nieuwenhuizen
+    given-names: Ard
+    orcid: 'https://orcid.org/0000-0002-8525-8558'
+  - family-names: van Henten
+    given-names: Eldert J.
+    orcid: 'https://orcid.org/0000-0002-1623-9855'
+  - family-names: Kootstra
+    given-names: Gert
+    orcid: 'https://orcid.org/0000-0002-2579-4324'
+identifiers:
+  - type: doi
+    value: 10.1016/j.atech.2025.101006
+    description: Accompanying article
+title: 'Evaluating performance and generalizability of Learning from Demonstration for the harvesting of apples & pears'
+version: 1.0.0
+url: https://doi.org/10.1016/j.atech.2025.101006
+date-released: '2024-09-26'
+preferred-citation:
+  authors:
+    - family-names: van de Ven
+      given-names: Robert
+      orcid: 'https://orcid.org/0009-0005-6483-6231'
+    - family-names: Nieuwenhuizen
+      given-names: Ard T.
+      orcid: 'https://orcid.org/0000-0002-8525-8558'
+    - family-names: van Henten
+      given-names: Eldert J.
+      orcid: 'https://orcid.org/0000-0002-1623-9855'
+    - family-names: Kootstra
+      given-names: Gert
+      orcid: 'https://orcid.org/0000-0002-2579-4324'
+  title: 'Evaluating performance and generalizability of Learning from Demonstration for the harvesting of apples & pears'
+  url: https://doi.org/10.1016/j.atech.2025.101006
+  type: article
+  year: '2025'

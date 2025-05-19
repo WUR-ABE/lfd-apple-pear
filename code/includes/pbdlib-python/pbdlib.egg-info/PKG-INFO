@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: pbdlib
+Version: 0.1
+Summary: Programming by Demonstration module for Python
+Home-page: 
+Author: Emmanuel Pignat
+Author-email: emmanuel.pignat@idiap.ch
+License: MIT
